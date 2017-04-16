@@ -1,0 +1,2 @@
+# BluetoothConnect
+PCとandroid端末間でBluetooth通信を行う
